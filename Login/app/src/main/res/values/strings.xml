@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_fragment">Inicio de Sesión</string>
+    <string name="title_user">Usuario:</string>
+    <string name="title_pwd">Contraseña:</string>
+    <string name="title_boton">Iniciar de Sesión</string>
+
+</resources>
